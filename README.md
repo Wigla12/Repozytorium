@@ -1,2 +1,2 @@
 # Repozytorium
-Repo do zadania
+Repozytorium do zadania
