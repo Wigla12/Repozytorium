@@ -1,2 +1,2 @@
-# Repozytorium
-Repozytorium do zadania
+# Aktualizacja README
+Zmieniono zawartość README na potrzeby testów.
